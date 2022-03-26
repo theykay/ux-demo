@@ -13,8 +13,6 @@ h1 {
 }
 
 p {
-  border: 3px #ff5fa2 dotted;
+  border: .25rem #ff5fa2 dotted;
   padding: 1rem;
 }
-
-/* 3px border around the text; 20px padding around your header; make the border 2 different colors one blue and red */
