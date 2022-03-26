@@ -1,0 +1,20 @@
+body { 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #FCC89B;
+}
+
+h1 {
+  padding: 1rem 1.5rem;
+  background-color: #ff5fa2;
+  color: #FCC89B;
+  border-radius: 1rem;
+}
+
+p {
+  border: 3px #ff5fa2 dotted;
+  padding: 1rem;
+}
+
+/* 3px border around the text; 20px padding around your header; make the border 2 different colors one blue and red */
